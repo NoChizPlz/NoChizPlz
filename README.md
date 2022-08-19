@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate Web developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Laravel, VueJs and Tailwind**
 
