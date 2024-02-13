@@ -11,7 +11,9 @@
 <h3 align="left">Certifications:</h3>
 <p align="left">
 - <b>Certified AppSec Practitioner (CAP)</b> - The SecOps Group, Issued Feb 2024, Credential ID 8386045. <a href="https://www.credly.com/badges/b89ec903-5382-4f71-9fb1-c917827728fc/linked_in_profile">View badge</a><br>
-- <b>Certified in Cybersecurity (CC)</b> - ISC2, Issued Aug 2023, Expires Aug 2026. <a href="https://www.credly.com">Credential info</a>
+- <b>Certified in Cybersecurity (CC)</b> - ISC2, Issued Aug 2023, Expires Aug 2026. <a href="https://www.credly.com">Credential info</a><br>
+- <b>Google Cybersecurity Specialization</b> - Coursera, Issued June 2023, Credential ID SQHS29XTL7BZ <a href="https://www.coursera.org/account/accomplishments/professional-cert/SQHS29XTL7BZ">Credential info</a><br>
+- <b>Information Technology Passport (IP) Certification Exam</b> - PhilNITS, Issued October 2017, Credential ID IP06-0028 <a href="https://www.credly.com">View page</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
