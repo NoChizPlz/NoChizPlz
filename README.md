@@ -10,6 +10,7 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
+•️ <b>The SecOps Group - Certified AppSec Pentester (CAPen)</b><br>
 •️ <b>The SecOps Group - Certified AppSec Practitioner (CAP)</b> <a href="https://www.credly.com/badges/b89ec903-5382-4f71-9fb1-c917827728fc/linked_in_profile">View badge</a><br>
 • <b>ISC2 - Certified in Cybersecurity (CC)</b> <a href="https://www.credly.com">Credential info</a><br>
 • <b>Coursera - Google Cybersecurity Specialization</b> <a href="https://www.coursera.org/account/accomplishments/professional-cert/SQHS29XTL7BZ">Credential info</a><br>
