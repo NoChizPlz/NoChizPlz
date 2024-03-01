@@ -17,6 +17,10 @@
 • <b>PhilNITS - Information Technology Passport (IP) Certification Exam</b><a href="https://www.credly.com">View page</a>
 </p>
 
+<h3 align="left">Publications:</h3>
+Remarkable: 🤷 <br>
+Unremarkable: <a href="https://github.com/skid-nochizplz/skid-nochizplz/">skid-nochizplz<a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joshua-lictan-992a40272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-lictan-992a40272" height="30" width="40" /></a>
